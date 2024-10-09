@@ -16,7 +16,7 @@ We seek to identify Top performing customers, products, channels of sales , regi
 [  Data Analysis Tools Used]( Data-Analysis-Tools-Used )<br> <br>
 [ Data Collection](Data-Collection )<br> <br>
 [Data Cleaning ](Data-Cleaning )<br> <br>
-[Loading data into Power BI](Loading-data-into-Power BI)<br> <br>
+[Loading data into Power BI](Loading-data-into-Power-BI)<br> <br>
 [Exploratory data analysis ](Exploratory-data-analysis)<br> <br>
 [Data Analysis](Data-Analysis)<br> <br>
 [Results and Findings](Results-and-Findings)<br> <br>
