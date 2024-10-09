@@ -10,16 +10,17 @@ Various aspects of the company’s sales transaction data generated over the pas
 
 We seek to identify Top performing customers, products, channels of sales , region , trends, and the overall performance of the company , to enable the company to make data-driven decisions/recommendations and to gain a deeper understanding of the company’s overall performance. 
 
-## Table of content
-[ Data Sources]( Data-Sources)
-[  Data Analysis Tools Used]( Data Analysis Tools Used )
-[ Data Collection](Data Collection )
-[ ]( )
-[ Database Inspection]( )
-[ ]()
-[]()
-[]()
-[]()
+## Table of Content
+[Project Overview](Project-Overview)<br> <br>
+[ Data Sources](Data-Sources)<br> <br>
+[  Data Analysis Tools Used]( Data-Analysis-Tools-Used )<br> <br>
+[ Data Collection](Data-Collection )<br> <br>
+[Data Cleaning ](Data-Cleaning )<br> <br>
+[Loading data into Power BI](Loading-data-into-Power BI)<br> <br>
+[Exploratory data analysis ](Exploratory-data-analysis)<br> <br>
+[Data Analysis](Data-Analysis)<br> <br>
+[Results and Findings](Results-and-Findings)<br> <br>
+[Recommendations]([Recommendations)<br> <br>
 
 ## Data Sources: 
 Sales Transaction Data : The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using SQL codes. 
@@ -70,7 +71,7 @@ EDA involves exploring the sales data in order to answer some key questions such
 - What is the overall sales Trend of the company over the years ? 
 - What is the overall sales performance of the company ?
    
-##DataAnalysis :
+## DataAnalysis :
 ```SQL
 
 --SQL SOLUTION 1--
@@ -131,7 +132,7 @@ ORDER BY year ASC
 
 The Analysis Results is summarised as follows: 
 
-The Company’s Top 3  Customers by ranking are 
+- The Company’s Top 3  Customers by ranking are 
  -  1st: EOG Resources : Bought a total of 56,410 items and has generated a Total revenue of  $382,870
  -  2nd: Mosaic :  Bought a total of 49,246 items and has generated a Total revenue of $345,620
  -  3rd: IBM :    Bought a total of 47,506 items and has generated a Total revenue of $326,820
